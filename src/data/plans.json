@@ -1,0 +1,102 @@
+{
+  "plans": [
+    {
+      "id": "ssc-chsl",
+      "title": "SSC CHSL",
+      "subtitle": "2-Month Learning Plan",
+      "totalDays": 56,
+      "subjects": [
+        { "id": "maths", "label": "Maths" },
+        { "id": "reasoning", "label": "Reasoning" },
+        { "id": "english", "label": "English" },
+        { "id": "ga", "label": "General Awareness" }
+      ],
+      "weeks": [
+        {
+          "week": 1,
+          "topics": {
+            "maths": ["Number System", "Simplification", "LCM/HCF", "Percentage"],
+            "reasoning": ["Analogy", "Classification", "Series", "Coding-Decoding"],
+            "english": ["Parts of Speech", "Basic Grammar", "Vocabulary"],
+            "ga": ["Ancient History", "Medieval History"]
+          }
+        },
+        {
+          "week": 2,
+          "topics": {
+            "maths": ["Ratio & Proportion", "Average", "Profit/Loss", "Discount"],
+            "reasoning": ["Blood Relations", "Direction", "Ranking", "Venn Diagram"],
+            "english": ["Subject-Verb Agreement", "Tenses", "Articles", "Prepositions"],
+            "ga": ["Modern History"]
+          }
+        },
+        {
+          "week": 3,
+          "topics": {
+            "maths": ["SI/CI", "Time & Work", "Partnership", "Mixture & Alligation"],
+            "reasoning": ["Syllogism", "Mathematical Operations", "Missing Number"],
+            "english": ["Error Spotting", "Sentence Improvement", "Fill in the Blanks"],
+            "ga": ["Geography"]
+          }
+        },
+        {
+          "week": 4,
+          "topics": {
+            "maths": ["Time-Speed-Distance", "Problems on Ages"],
+            "reasoning": ["Non-verbal Reasoning", "Figure-based Topics"],
+            "english": ["Synonyms", "Antonyms", "One-word Substitution", "Idioms/Phrases"],
+            "ga": ["Indian Polity"]
+          }
+        },
+        {
+          "week": 5,
+          "topics": {
+            "maths": ["Algebra"],
+            "reasoning": ["Statement/Conclusion + Remaining Logical Reasoning"],
+            "english": ["Active/Passive Voice"],
+            "ga": ["Economics"]
+          }
+        },
+        {
+          "week": 6,
+          "topics": {
+            "maths": ["Geometry"],
+            "reasoning": ["Paper Folding/Cutting", "Mirror/Water Images", "Embedded Figures"],
+            "english": ["Direct/Indirect Speech"],
+            "ga": ["Physics"]
+          }
+        },
+        {
+          "week": 7,
+          "topics": {
+            "maths": ["Mensuration", "Trigonometry"],
+            "reasoning": ["Remaining Non-verbal + Mixed Topics"],
+            "english": ["Cloze Test", "Reading Comprehension", "Para Jumbles"],
+            "ga": ["Chemistry", "Biology"]
+          }
+        },
+        {
+          "week": 8,
+          "topics": {
+            "maths": ["Data Interpretation", "Statistics/Probability", "Remaining Topics"],
+            "reasoning": ["Finish any leftover topics"],
+            "english": ["Finish remaining grammar/vocabulary"],
+            "ga": ["Environment", "Science & Technology", "Culture", "Sports", "Awards", "Current Affairs"]
+          }
+        }
+      ]
+    },
+    {
+      "id": "machine-learning",
+      "title": "Machine Learning",
+      "subtitle": "Coming soon",
+      "totalDays": 56,
+      "subjects": [
+        { "id": "python", "label": "Python" },
+        { "id": "math", "label": "Math" },
+        { "id": "ml", "label": "ML" }
+      ],
+      "weeks": []
+    }
+  ]
+}
