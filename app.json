@@ -32,11 +32,20 @@
           "image": "./assets/images/splash-icon.png",
           "imageWidth": 76
         }
-      ]
+      ],
+      "expo-image",
+      "expo-web-browser"
     ],
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "3f74c4d0-2a7f-4eeb-96fa-81bdd1e7587d"
+      }
+    },
+    "owner": "rohitverma14s-team"
   }
 }
